@@ -107,3 +107,11 @@ Dynamic API Phase 1: Build your core, standards compliant Express server
 - Create the HEROKU app and deploy it with GitHub.
 
 ## Assignment Submission
+
+[Action Link] ( https://github.com/AhmadAmaireh/basic-express-server/actions/new )
+
+[PR Link] ( https://github.com/AhmadAmaireh/basic-express-server/pulls )
+
+[Heroku Main Deploy] (https://basic-express-server0.herokuapp.com/)
+
+[Heroku Dev Deploy] ( https://basic-express-server0.herokuapp.com/ )
